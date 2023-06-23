@@ -12,6 +12,7 @@ Steps:
 
 1.1. You can create a free account and database following this link:
 https://docs.redis.com/latest/rc/rc-quickstart/
+
 1.2 Update the database credentials (endpoint, port and password) in the Jupyter Lab/Notebook
 
 2 - Run the Jupyter Lab/Notebook
