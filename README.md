@@ -15,6 +15,7 @@ https://docs.redis.com/latest/rc/rc-quickstart/
 1.2 Update the database credentials (endpoint, port and password) in the Jupyter Lab/Notebook
 
 2 - Run the Jupyter Lab/Notebook
+
 2.1 Create a python virtual environment with Python 3 and jupyter options and load the requirements. For example:
 
 > conda create -n redis-search python=3 jupyter
